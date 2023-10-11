@@ -18,7 +18,8 @@ Este projeto fornece uma solução simples para permitir aos usuários fazer o u
 
 ## Como Usar
 
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/seuusuario/seurepositorio.git
+1. Acesse:
+https://no-resize-images-mercado-livre.vercel.app/
+2. Enviei suas imagens
+3. Clique em "processar"
+4. Elas serão baixadas com os quadradinhos
