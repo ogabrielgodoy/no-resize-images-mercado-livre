@@ -23,3 +23,10 @@ https://no-resize-images-mercado-livre.vercel.app/
 2. Enviei suas imagens
 3. Clique em "processar"
 4. Elas serão baixadas com os quadradinhos
+
+## Pra que usar isso?
+
+1. Está é uma estratégia para ranquear anúncios em marketplaces.
+   
+3. Este sistema coloca as imagens no padrão para o algoritmo do Mercado Livre, Shopee, Magalu entre outros ranquear seus anúncios e consequentemente vender mais!
+  obs: isso não é uma teoria. é realmente projetado para funcionar desta forma.
